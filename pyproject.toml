@@ -1,0 +1,12 @@
+[project]
+name = "algorithm-list"
+version = "0.1.0"
+description = "Representative algorithm implementations for learning and competitive programming"
+requires-python = ">=3.11"
+
+[tool.poetry]
+name = "algorithm-list"
+version = "0.1.0"
+
+[tool.black]
+line-length = 88
